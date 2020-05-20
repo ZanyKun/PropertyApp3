@@ -17,7 +17,7 @@ pipeline {
 		stage("Github code"){
 			steps{
 			    // Get some code from a GitHub repository
-				git 'https://github.com/ZanyKun/PropertyApp3/tree/master'
+				git 'https://github.com/ZanyKun/PropertyApp3.git'
 			}
 		}
 		stage('Build') {
