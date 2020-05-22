@@ -16,7 +16,7 @@ public class ElasticConfig {
 	@Bean
 	public RestHighLevelClient client() throws UnknownHostException {
 		ClientConfiguration clientConfiguration = ClientConfiguration.builder()
-				.connectedTo("localhost:9230").build();
+				.connectedTo("localhost:9200").build();
 		
 		return RestClients.create(clientConfiguration).rest();
 	}	
