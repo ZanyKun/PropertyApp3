@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	triggers {
-	    cron('* * * * *')
+	    cron('* 6 * * *')
 	}
 	tools {
 		// Install the Maven version configured as "maven" and add it to the path.
