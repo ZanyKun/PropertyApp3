@@ -1,0 +1,7 @@
+organization=zanykun
+projectKey=99AcresFinal:99AcresFinal
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=99AcresFinal%3A99AcresFinal
+ceTaskId=AXI54NpoMryUwHn35MGx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXI54NpoMryUwHn35MGx

@@ -1,0 +1,65 @@
+
+Hacres.config.SpringConfig#s3Client()Lcom/amazonaws/services/s3/AmazonS3;»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaD D("1*§"
+1»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(+š
+—
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(65
+%0/com.amazonaws.services.s3.AmazonS3ClientBuilder"kcom.amazonaws.services.s3.AmazonS3ClientBuilder#standard()Lcom/amazonaws/services/s3/AmazonS3ClientBuilder;*3"1
+/com.amazonaws.services.s3.AmazonS3ClientBuilderäá
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaEh E(u'
+%1!com.amazonaws.auth.AWSCredentials"Jacres.config.SpringConfig#credentials()Lcom/amazonaws/auth/AWSCredentials;*
+acres.config.SpringConfig2credentials()©¦
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaEK E(g5
+%2/com.amazonaws.auth.AWSStaticCredentialsProvider"/com.amazonaws.auth.AWSStaticCredentialsProvider‰
+†
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaEG E(v
+%3"\com.amazonaws.auth.AWSStaticCredentialsProvider#<init>(Lcom/amazonaws/auth/AWSCredentials;)V*7
+5
+%2/com.amazonaws.auth.AWSStaticCredentialsProvider*)
+'
+%1!com.amazonaws.auth.AWSCredentialsÄÁ
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(w5
+%4/com.amazonaws.services.s3.AmazonS3ClientBuilder"™com.amazonaws.client.builder.AwsClientBuilder#withCredentials(Lcom/amazonaws/auth/AWSCredentialsProvider;)Lcom/amazonaws/client/builder/AwsClientBuilder;*7
+5
+%0/com.amazonaws.services.s3.AmazonS3ClientBuilder*7
+5
+%2/com.amazonaws.auth.AWSStaticCredentialsProvider2<withCredentials(Lcom/amazonaws/auth/AWSCredentialsProvider;)»¸
+¼
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(5
+%5/com.amazonaws.services.s3.AmazonS3ClientBuilder"mcom.amazonaws.services.s3.AmazonS3Builder#disableChunkedEncoding()Lcom/amazonaws/services/s3/AmazonS3Builder;*7
+5
+%4/com.amazonaws.services.s3.AmazonS3ClientBuilder2disableChunkedEncoding()ö
+ó
+½
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaEœ E(­#
+%6com.amazonaws.regions.Regions"__id*
+""‘Ž
+¼
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(®5
+%7/com.amazonaws.services.s3.AmazonS3ClientBuilder"ˆcom.amazonaws.client.builder.AwsClientBuilder#withRegion(Lcom/amazonaws/regions/Regions;)Lcom/amazonaws/client/builder/AwsClientBuilder;*7
+5
+%5/com.amazonaws.services.s3.AmazonS3ClientBuilder*%
+#
+%6com.amazonaws.regions.Regions2+withRegion(Lcom/amazonaws/regions/Regions;)ûø
+¼
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(¶(
+%8"com.amazonaws.services.s3.AmazonS3"Kcom.amazonaws.client.builder.AwsSyncClientBuilder#build()Ljava/lang/Object;*7
+5
+%7/com.amazonaws.services.s3.AmazonS3ClientBuilder2build()¤
+¡
+¼
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaE E(·.
+s3client"com.amazonaws.services.s3.AmazonS3"__id**
+(
+%8"com.amazonaws.services.s3.AmazonS3"ð
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.javaF F(0
+.
+s3client"com.amazonaws.services.s3.AmazonS3B
+acres.config.SpringConfig

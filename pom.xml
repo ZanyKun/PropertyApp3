@@ -101,62 +101,17 @@
 		<finalName>99DockerDeploy</finalName>
 		<plugins>
 			<plugin>
-		        <groupId>io.fabric8</groupId>
-		        <artifactId>fabric8-maven-plugin</artifactId> 
-		        <version>4.4.1</version>
-		        <configuration>
-
-					<dockerHost>tcp://192.168.99.100:2376</dockerHost>
-					<authConfig>
-						<username>zanykun</username>
-						<password>${password}</password>
-					</authConfig>
-					<images>
-						<image>
-							<name>payalbnsl/springBootHibernate</name>
-							<build>
-								<dockerFileDir>${project.basedir}/src/main/resources/</dockerFileDir>
-							<assembly>
-								<descriptorRef>artifact</descriptorRef>
-							</assembly>
-								<tags>
-									<tag>${tag}</tag>
-								</tags>
-							</build>
-						</image>
-					</images>
-				</configuration>
+				<groupId>org.sonarsource.scanner.maven</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>3.3.0.603</version>
 				<executions>
 					<execution>
-						<phase>package</phase>
-						<goals>
-							<goal>build</goal>
-						</goals>
-					</execution>
-					<execution>
-						<id>mydeploy</id>
-						<phase>deploy</phase>
-						<goals>
-							<goal>push</goal>
-						</goals>
+					<phase>verify</phase>
+					<goals>
+					<goal>sonar</goal>
+					</goals>
 					</execution>
 				</executions>
-				</plugin>
-				<plugin>
-				<artifactId>maven-deploy-plugin</artifactId>
-				<configuration>
-					<skip>true</skip>
-				</configuration>
-		    </plugin>
-			<plugin>
-		        <artifactId>maven-war-plugin</artifactId>
-		        <configuration>
-		          <warSourceDirectory>WebContent</warSourceDirectory>
-		        </configuration>
-		    </plugin>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
 	</build>

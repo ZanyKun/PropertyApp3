@@ -1,0 +1,20 @@
+
+]acres.controller.LoginController#getLoginPage()Lorg/springframework/web/servlet/ModelAndView;Â
+·D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/LoginController.javaE E(!"1*Ï
+1Â
+·D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/LoginController.javaF F(!ª§
+Â
+·D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/LoginController.javaF F(2
+%0,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewÙ
+Ö
+Â
+·D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/LoginController.javaF	 F("
+%1"Horg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;)V*4
+2
+%0,org.springframework.web.servlet.ModelAndView*	
+login"û
+Â
+·D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/LoginController.javaF F(#4
+2
+%0,org.springframework.web.servlet.ModelAndViewB$"
+ acres.controller.LoginController

@@ -1,0 +1,16 @@
+SMAP
+buildingForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 buildingForm.jsp
+WEB-INF/buildingForm.jsp
+*L
+2,81:118,0
+83,10:122
+92,75:132,0
+166,3:136
+168,2:139,0
+169:140
+170,355:141,0
+*E

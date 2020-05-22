@@ -1,0 +1,20 @@
+
+eacres.controller.RegisterBuildingCtrl#getBuildingForm()Lorg/springframework/web/servlet/ModelAndView;Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/RegisterBuildingCtrl.javay y($"1*ê
+1Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/RegisterBuildingCtrl.javaz z((¯¬
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/RegisterBuildingCtrl.javaz z(2
+%0,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewå
+â
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/RegisterBuildingCtrl.javaz	 z()
+%1"Horg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;)V*4
+2
+%0,org.springframework.web.servlet.ModelAndView*
+buildingForm"€
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/controller/RegisterBuildingCtrl.javaz z(*4
+2
+%0,org.springframework.web.servlet.ModelAndViewB)'
+%acres.controller.RegisterBuildingCtrl

@@ -1,0 +1,27 @@
+
+Jacres.config.SpringConfig#credentials()Lcom/amazonaws/auth/AWSCredentials;»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java> >(""1*”
+1»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java?7 ?(M—”
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java?# ?(6,
+%0&com.amazonaws.auth.BasicAWSCredentials"&com.amazonaws.auth.BasicAWSCredentials•
+’
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java? ?(z
+%1"Tcom.amazonaws.auth.BasicAWSCredentials#<init>(Ljava/lang/String;Ljava/lang/String;)V*.
+,
+%0&com.amazonaws.auth.BasicAWSCredentials*
+AKIAI56BHRTP4PNJH6KA*,*
+(CykSK2195h1celib8VdUbsWo9lEZ0xW0cQ7BZ9Db©
+¦
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java? ?({0
+credentials!com.amazonaws.auth.AWSCredentials"__id*.
+,
+%0&com.amazonaws.auth.BasicAWSCredentials"ò
+»
+°D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/config/SpringConfig.java@ @(2
+0
+credentials!com.amazonaws.auth.AWSCredentialsB
+acres.config.SpringConfig

@@ -1,0 +1,14 @@
+
+9acres.dto.UserInfo#getAuthorities()Ljava/util/Collection;´
+©D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/dto/UserInfo.javaH/ H(="1*¾
+1´
+©D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/dto/UserInfo.javaI	 I(¿
+¼
+´
+©D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/dto/UserInfo.javaIZ I(m 
+%0java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.Collectors"¿
+´
+©D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/dto/UserInfo.javaI I(o
+""B
+acres.dto.UserInfo

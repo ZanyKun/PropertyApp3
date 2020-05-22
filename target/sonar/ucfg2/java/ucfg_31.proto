@@ -1,0 +1,43 @@
+
+Yacres.service.BuildingCrudServiceImpl#getBuilding(Ljava/lang/String;)Ljava/util/Optional;Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java (*"startingBlock*ð
+startingBlockÇ
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java* (5‘
+Ž
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java (
+
+%2"
+__annotate*
+java.lang.Override*
+
+idjava.lang.Stringû
+ø
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java2 (4
+idjava.lang.String"__annotation*
+
+%2*
+1*ž	
+1Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java	 (´
+±
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java	 (&
+%0 acres.elastic.BuildingRepository"__id*7*5'
+%acres.service.BuildingCrudServiceImpl"
+
+buildRep®«
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java	 (
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*(
+&
+%0 acres.elastic.BuildingRepository*
+
+idjava.lang.String2findById(Ljava/lang/Object;)"æ
+Ç
+¼D:/Users/Zany/Downloads/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/PropertyApp2-20f0aa8bb8d409a8acdafbaa58050e5deba79122/src/main/java/acres/service/BuildingCrudServiceImpl.java (
+
+%1java.util.Optional:
+idjava.lang.StringB)'
+%acres.service.BuildingCrudServiceImpl
