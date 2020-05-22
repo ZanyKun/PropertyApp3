@@ -1,6 +1,8 @@
 pipeline {
 	agent any
-	
+	triggers {
+	    cron('* * * * *')
+	}
 	tools {
 		// Install the Maven version configured as "maven" and add it to the path.
 		maven "maven"
@@ -22,7 +24,7 @@ pipeline {
 		}
 		stage('Sonar Cloud Check'){
 		 	steps{
-          		sh 'verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=zanykun -Dsonar.projectKey=99AcresFinal:99AcresFinal -Dsonar.login=2d70256a2a501375af9589bd1ec4ddf73117e467'
+          		sh 'mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=zanykun -Dsonar.projectKey=99AcresFinal:99AcresFinal -Dsonar.login=2d70256a2a501375af9589bd1ec4ddf73117e467'
       	}              
 		}
 		stage('Build') {
